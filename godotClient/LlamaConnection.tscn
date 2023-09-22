@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://jr0wi50kv0kv"]
+
+[ext_resource type="Script" path="res://Scripts/LlamaConnection.cs" id="1_mwyf5"]
+
+[node name="LlamaConnection" type="Node"]
+script = ExtResource("1_mwyf5")
